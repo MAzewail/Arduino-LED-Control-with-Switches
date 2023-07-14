@@ -22,6 +22,8 @@ To follow along with this project, you will need the following hardware:
 # Circuit Diagram
 The circuit diagram for this project is provided in the circuit_diagram.png file in this repository.
 
+![](https://github.com/MAzewail/Arduino-LED-Control-with-Switches/blob/main/Circuit%20Diagram.PNG)
+
 # Contributing
 If you find an issue with the code or have an improvement to suggest, feel free to open an issue or pull request.
 
