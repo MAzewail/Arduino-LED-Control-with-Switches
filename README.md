@@ -24,6 +24,7 @@ The circuit diagram for this project is provided in the circuit_diagram.png file
 
 ![](https://github.com/MAzewail/Arduino-LED-Control-with-Switches/blob/main/Circuit%20Diagram.PNG)
 
+you can also go to the following [video](https://drive.google.com/file/d/1uFcd0NUzfrh-4d8Zc_rW8AM7C5F7FSl7/view?usp=drive_link) to view the sequence of the project. 
 # Contributing
 If you find an issue with the code or have an improvement to suggest, feel free to open an issue or pull request.
 
