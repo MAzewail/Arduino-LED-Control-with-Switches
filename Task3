@@ -1,0 +1,35 @@
+int red1=9;
+int green1=8;
+int red2=10;
+int green2=11;
+int led=12;
+int ledd=13;
+int switchpin1=1;
+int switchpin2=2;
+void setup()
+{
+pinMode(red1,OUTPUT);
+pinMode(green1,OUTPUT);
+pinMode(red2,OUTPUT);
+pinMode(green2,OUTPUT);
+pinMode(led,OUTPUT);
+pinMode(ledd,OUTPUT);
+pinMode(switchpin1,INPUT);
+pinMode(switchpin2,INPUT);
+}
+
+void loop()
+{
+  if(digitalRead(switchpin1)){
+    digitalWrite(red1,1);
+    analogWrite(green1,128);
+  }
+  if(digitalRead(switchpin2)){
+  digitalWrite(red2,1);
+  analogWrite(green2,128);
+  }
+  else{
+    for( int i=8; i<=13; i++){
+      analogWrite(i,0);
+}}}
+  
